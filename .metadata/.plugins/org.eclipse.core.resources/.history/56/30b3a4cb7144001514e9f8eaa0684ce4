@@ -1,0 +1,23 @@
+
+public class Methods {
+public static void main(String[]args){
+//	for(int i = 1; i<=10000; i++){
+//	System.out.println(i);
+//}
+	numbers (900,80000);
+}
+
+static void numbers(int start, int end){
+	for(int i = start; i<= end; i++){
+		System.out.println(i);
+	}
+	
+	
+	
+	
+	
+}
+
+
+
+}
